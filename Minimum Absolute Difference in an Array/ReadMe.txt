@@ -1,0 +1,1 @@
+Key to success: Key here is to SORT from small to large, then no need to check if Dif === 0 and I can just compare  Math.abs(  arr[index+1]  with  current element)   and then assign it to Minimum if the difference is bigger

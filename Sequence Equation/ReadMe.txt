@@ -1,0 +1,1 @@
+Given a sequence of integers, where each element is distinct. For each x where x is between 1 and n, that is x increments from 1 to n, find any integer y such that p(p(y)) and keep a history of the values of y in a return array.
